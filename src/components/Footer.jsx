@@ -14,8 +14,8 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-bold">NaijaCare Foundation</h3>
           <p className="mt-2 text-sm">
-            Contact us: +234 812 345 6789 <br />
-            Email: support@naijacare.org
+            Contact us: +234 916 127 1895 <br />
+            Email: qasimrokeeb@gmail.com
           </p>
         </div>
         <div className="mt-4 md:mt-0 flex gap-4 text-lg">
