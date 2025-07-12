@@ -29,6 +29,13 @@ const causes = [
       "Our programs equip women with vocational skills, entrepreneurship training, and microgrants to lift them out of poverty and into leadership.",
     img: "https://images.unsplash.com/photo-1573497491208-6b1acb260507?auto=format&fit=crop&w=400&h=300&q=80",
   },
+ {
+    title: "Humanitarian Support",
+    desc: "Providing essential resources and support to communities in crisis.",
+    details:
+      "",
+    img: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+  },
 ];
 
 export default causes;
