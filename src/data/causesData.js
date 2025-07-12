@@ -33,8 +33,15 @@ const causes = [
     title: "Humanitarian Support",
     desc: "Providing essential resources and support to communities in crisis.",
     details:
-      "",
+      "Providing emergency relief supplies, shelter, and counseling to communities affected by natural disasters or conflict.",
     img: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+  },
+  {
+    title: "Skills Training",
+    desc: "Empowering youth with vocational skills for better job opportunities.",
+    details:
+      "Skills training programs in areas like carpentry, tailoring, and IT help young Nigerians gain employment and start their own businesses.",
+    img: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&h=300&q=80",
   },
 ];
 
